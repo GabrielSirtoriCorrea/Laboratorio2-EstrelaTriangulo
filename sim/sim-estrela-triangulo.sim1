@@ -8,7 +8,7 @@
 
 <item itemtype="Push" CircId="Push-5" mainComp="false" Show_id="false" Show_Val="false" Pos="-264,-100" rotation="0" hflip="1" vflip="1" label="Push-5" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" />
 
-<item itemtype="RelaySPST" CircId="RelaySPST-10" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,0" rotation="-90" hflip="1" vflip="1" label="RelaySPST-10" idLabPos="-16,8" labelrot="0" valLabPos="-16,6" valLabRot="0" Norm_Close="false" DT="false" Poles="1" IOn="20 mA" IOff="10 mA" Inductance="100 mH" Rcoil="100 Ω" ReaStep="0 ns" />
+<item itemtype="RelaySPST" CircId="RelaySPST-10" mainComp="false" Show_id="false" Show_Val="false" Pos="-312,0" rotation="-90" hflip="1" vflip="1" label="RelaySPST-10" idLabPos="-16,8" labelrot="0" valLabPos="-16,6" valLabRot="0" Norm_Close="false" DT="false" Poles="1" IOn="20 mA" IOff="10 mA" Inductance="100 mH" Rcoil="100 Ω" ReaStep="0 ns" />
 
 <item itemtype="RelaySPST" CircId="RelaySPST-11" mainComp="false" Show_id="false" Show_Val="false" Pos="-304,64" rotation="-90" hflip="1" vflip="1" label="RelaySPST-11" idLabPos="-16,8" labelrot="0" valLabPos="-16,6" valLabRot="0" Norm_Close="false" DT="false" Poles="1" IOn="20 mA" IOff="10 mA" Inductance="100 mH" Rcoil="100 Ω" ReaStep="0 ns" />
 
@@ -40,13 +40,13 @@
 
 <item itemtype="Connector" uid="Connector-47" startpinid="Node-22-2" endpinid="Node-17-2" pointList="-180,-68,-180,136,-276,136" />
 
-<item itemtype="Connector" uid="Connector-49" startpinid="RelaySPST-10-inductor-rPin" endpinid="Uno-2-11" pointList="-304,-16,-236,-16,-236,-92,-160,-92" />
+<item itemtype="Connector" uid="Connector-49" startpinid="RelaySPST-10-inductor-rPin" endpinid="Uno-2-11" pointList="-312,-16,-236,-16,-236,-92,-160,-92" />
 
 <item itemtype="Connector" uid="Connector-50" startpinid="RelaySPST-11-inductor-rPin" endpinid="Uno-2-12" pointList="-304,48,-220,48,-220,-84,-160,-84" />
 
 <item itemtype="Connector" uid="Connector-51" startpinid="RelaySPST-12-inductor-rPin" endpinid="Uno-2-13" pointList="-304,104,-196,104,-196,-76,-160,-76" />
 
-<item itemtype="Connector" uid="Connector-26" startpinid="RelaySPST-10-inductor-lPin" endpinid="Node-18-1" pointList="-304,16,-276,16,-276,84" />
+<item itemtype="Connector" uid="Connector-26" startpinid="RelaySPST-10-inductor-lPin" endpinid="Node-18-1" pointList="-312,16,-276,16,-276,84" />
 
 <item itemtype="Connector" uid="Connector-43" startpinid="Node-21-1" endpinid="Node-22-1" pointList="-280,-100,-280,-68,-180,-68" />
 
